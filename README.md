@@ -17,11 +17,11 @@ I’m an aspiring Full Stack Software Engineer with a background in computer sci
 
 > A React-based application that allows users to search for news articles and save them to their account. Future improvements include making cards clickable to open the full article and implementing a full backend using Express.js, Node.js, and MongoDB for real user data and authentication.
 
-🎯 Goals
-	•	Become a full-time full stack engineer
-	•	Contribute to open-source projects
-	•	Build tools that improve everyday user experiences
-	•	Grow into a leadership role where I can mentor and support junior developers
+## 🎯 Goals
+	•	Become a full-time full stack engineer  
+	•	Contribute to open-source projects  
+	•	Build tools that improve everyday user experiences  
+	•	Grow into a leadership role where I can mentor and support junior developers  
 
 
 <h3 align="left">Connect with me:</h3>
