@@ -3,11 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cccampb2&label=Profile%20views&color=0e75b6&style=flat" alt="cccampb2" /> </p>
 
-- 🔭 I’m currently attending school at **TripleTen**
+I’m an aspiring Full Stack Software Engineer with a background in computer science and quality assurance. I enjoy building all types of applications, solving complex problems, and continuously learning new technologies. I’m currently attending school at TripleTen, where I’m sharpening my skills in full stack development. When I’m not coding, you’ll probably find me solving Rubik’s cubes of all sizes—it’s one of my favorite ways to unwind and challenge my brain. Feel free to reach out at calebccampbell19@gmail.com!
 
-- 📫 How to reach me **calebccampbell19@gmail.com**
+💻 Tech Stack
+	•	Languages: JavaScript, HTML, CSS, Python
+	•	Frontend: React, Figma, Responsive Design, BEM
+	•	Backend: Node.js, Express.js, MongoDB, REST APIs
+	•	Tools: Git, GitHub, Postman, Webpack, Agile/Scrum
 
-- ⚡ Fun fact **I love solving rubik's cubes of all sizes**
+🚀 Projects I’m Working On
+
+🔎 NewsExplorer
+
+A React-based application that allows users to search for news articles and save them to their account. Future improvements include making cards clickable to open the full article and implementing a full backend using Express.js, Node.js, and MongoDB for real user data and authentication.
+
+🎯 Goals
+	•	Become a full-time full stack engineer
+	•	Contribute to open-source projects
+	•	Build tools that improve everyday user experiences
+	•	Grow into a leadership role where I can mentor and support junior developers
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
