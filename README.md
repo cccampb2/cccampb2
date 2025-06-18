@@ -35,9 +35,9 @@ I’m an aspiring Full Stack Software Engineer with a background in computer sci
 
 > A React-based application that allows users to search for news articles and save them to their account. Future improvements include making cards clickable to open the full article and implementing a full backend using Express.js, Node.js, and MongoDB for real user data and authentication.
 
-### 🌐 Personal Landing Page (In Progress)
+### 🌐 Personal Landing Page 
 
-> I’m currently building a personal landing page to showcase my projects, provide contact information, and share more about who I am as a developer. It will serve as a centralized hub for potential employers and collaborators to explore my work.
+> I’m currently updating my personal landing page any chance I get. The site is to showcase my projects, provide contact information, and share more about who I am as a developer. It will serve as a centralized hub for potential employers and collaborators to explore my work. [Current Build](https://cccampb2.github.io/landingPage/)
 
 ## 🎯 Goals
 	•	Become a full-time full stack engineer  
