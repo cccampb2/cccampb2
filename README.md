@@ -28,7 +28,7 @@ Planned enhancements include an admin dashboard for managing trivia content and 
 
 ### 🌐 Personal Landing Page 
 
-> I’m currently updating my personal landing page any chance I get. The site is to showcase my projects, provide contact information, and share more about who I am as a developer. It will serve as a centralized hub for potential employers and collaborators to explore my work. [Current Build](https://cccampb2.github.io/landingPage/)
+> I’m currently updating my personal landing page any chance I get. This is a place I will be showcasing my projects, provide contact information, and share more about who I am as a developer. It will serve as a centralized hub for potential employers and collaborators to explore my work. [Current Build](https://cccampb2.github.io/landingPage/)
 
 ## 🎯 Goals
 	•	Become a full-time full stack engineer  
