@@ -19,7 +19,7 @@ I’m an aspiring Full Stack Software Engineer with a background in computer sci
 
 ### 🏁 Shiftxd Souls
 
-> Shiftxd Souls is a full-stack MERN community platform for a private car and motorcycle club. Members can create profiles, RSVP to events, display custom badges, and stay connected with the club, while admins can manage users, events, and invite-code registration through protected dashboard tools.
+> Shiftxd Souls is a full-stack MERN community platform for a private car and motorcycle club. Members can create profiles, RSVP to events, display custom badges, and stay connected with the club, while admins can manage users, events, and invite-code registration through protected dashboard tools. [Current Release](https://shiftxdsouls.com)
 
 
 
