@@ -17,10 +17,10 @@ I’m an aspiring Full Stack Software Engineer with a background in computer sci
 
 ## 🚀 Projects I’m Working On
 
-### 🐠 Fish or Fiction
+### 🏁 Shiftxd Souls
 
-> Fish or Fiction is a full-stack trivia application being developed as part of my TripleTen externship. The frontend is built with React, TypeScript, Vite, React Router, and styled using Material-UI and TailwindCSS for a modern, responsive UI. Trivia content is delivered through a GraphQL API, while the backend uses PostgreSQL to store questions, track user progress, and manage scoring data.
-Planned enhancements include an admin dashboard for managing trivia content and a real-time multiplayer mode to create a more engaging gameplay experience.
+> Shiftxd Souls is a full-stack MERN community platform for a private car and motorcycle club. Members can create profiles, RSVP to events, display custom badges, and stay connected with the club, while admins can manage users, events, and invite-code registration through protected dashboard tools.
+
 
 
 ### 🌐 Personal Landing Page 
