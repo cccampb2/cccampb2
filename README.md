@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I’m an aspiring Full Stack Software Engineer with a background in computer science and quality assurance. I enjoy building all types of applications, solving complex problems, and continuously learning new technologies. I’m currently attending school at TripleTen, where I’m sharpening my skills in full stack development. When I’m not coding, you’ll probably find me solving Rubik’s cubes of all sizes—it’s one of my favorite ways to unwind and challenge my brain. Feel free to reach out at calebccampbell19@gmail.com!
+I’m a Full Stack Software Engineer and TripleTen graduate with a background in computer science and quality assurance. I enjoy building applications, solving complex problems, and exploring new technologies. Through TripleTen’s full stack development program, I strengthened my skills and gained hands-on experience bringing projects to life. When I’m not coding, you’ll probably find me solving Rubik’s cubes of all sizes—one of my favorite ways to unwind and challenge my brain. Feel free to reach out at calebccampbell19@gmail.com!
 
 
 ## 🌐 Socials:
